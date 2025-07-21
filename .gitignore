@@ -1,0 +1,13 @@
+/average_delivery_days.sql
+/average_discount_by_category.sql
+/first_10_rows.sql
+/frequently_ordered_products.sql
+/monthly_discount_trend.sql
+/monthly_quantity_sold.sql
+/most_profitable_sub_categories.sql
+/orders_per_ship_mode.sql
+/order_count_per_month.sql
+/sales_and_profit_ship_mode.sql
+/same_day_shipped.sql
+/total_sales_and_profit_region_wise.sql
+/west_region_orders.sql
