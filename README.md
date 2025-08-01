@@ -1,7 +1,7 @@
-📊 Superstore SQL Project
+Superstore SQL Project
 
 This project contains multiple SQL queries executed on the Superstore dataset to gain insights into business performance, customer behavior, sales trends, and profitability. Each query solves a real-world business problem and is written to be optimized and readable.
-📁 Project Structure
+Project Structure
 
 SQL_Project_Superstore/
 ├── Top_10_Customers.sql
@@ -11,13 +11,13 @@ SQL_Project_Superstore/
 ├── Statewise_Sales_Contribution.sql
 └── README.md
 
-🔍 About the Dataset
+About the Dataset
 
 The Superstore dataset contains transactional data from a retail chain, including customer details, products sold, sales amount, discounts, and profit across various U.S. regions, categories, and time periods.
-✅ Queries Included
+Queries Included
 
 Here’s a brief summary of the 5 main SQL queries:
-1. 🧾 Top_10_Customers.sql
+1. Top_10_Customers.sql
 
 Goal: Identify the top 10 customers who contributed the most to revenue.
 
@@ -29,7 +29,7 @@ Goal: Identify the top 10 customers who contributed the most to revenue.
 
     Use Case: Helps in targeting high-value customers for loyalty programs or exclusive offers.
 
-2. 💸 Profitable_Products.sql
+2. Profitable_Products.sql
 
 Goal: Find the most profitable products and their respective categories/sub-categories.
 
@@ -41,7 +41,7 @@ Goal: Find the most profitable products and their respective categories/sub-cate
 
     Use Case: Assists procurement and marketing teams in focusing on high-margin SKUs.
 
-3. 📆 Monthly_Sales_Trend.sql
+3. Monthly_Sales_Trend.sql
 
 Goal: Analyze monthly sales trends to detect seasonality and peaks.
 
@@ -53,7 +53,7 @@ Goal: Analyze monthly sales trends to detect seasonality and peaks.
 
     Use Case: Helps plan inventory, staffing, and marketing during peak months.
 
-4. 🧠 Segment_Profit_Analysis.sql
+4. Segment_Profit_Analysis.sql
 
 Goal: Evaluate how different customer segments contribute to overall profit.
 
@@ -65,7 +65,7 @@ Goal: Evaluate how different customer segments contribute to overall profit.
 
     Use Case: Supports strategic decisions on which segment to prioritize in campaigns.
 
-5. 🗺️ Statewise_Sales_Contribution.sql
+5. Statewise_Sales_Contribution.sql
 
 Goal: Identify which states contribute most to the total revenue.
 
@@ -77,7 +77,7 @@ Goal: Identify which states contribute most to the total revenue.
 
     Use Case: Useful for regional expansion strategies and logistic planning.
 
-🛠 Tech Stack
+Tech Stack
 
     SQL (MySQL syntax)
 
@@ -85,7 +85,7 @@ Goal: Identify which states contribute most to the total revenue.
 
     Tooling: Tested on MySQL Workbench / PostgreSQL / DBeaver
 
-🧠 Future Scope
+Future Scope
 
     Integrate the dataset into a BI tool like Power BI or Tableau.
 
@@ -93,7 +93,7 @@ Goal: Identify which states contribute most to the total revenue.
 
     Automate report generation with Python or SQL procedures.
 
-🚀 How to Use
+How to Use
 
     Load the Superstore dataset into your database.
 
